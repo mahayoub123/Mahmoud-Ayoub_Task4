@@ -1,0 +1,516 @@
+
+.navBg{
+    background-color: #3fbabf;
+}
+.navStyle{
+    display: none;
+}
+.iconStyle{
+    color: white;
+    font-size: 21px;
+   
+}
+.parStyle{
+    color: white;
+    font-size: 21px;
+    margin-left: 10px;
+   
+}
+.navFather{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.navBg2{
+    background-color:#f8f9fb;
+}
+.navStyle2{
+    width: 100%;
+    display: none;
+}
+.linkStyle{
+    color: black;
+    text-decoration: unset;
+
+}
+.linkStyle2 a{
+    padding-top: 0px;
+}
+
+.linkStyle a{
+    color: black;
+    text-decoration: unset;
+    
+}
+
+.imgSize{
+    width: 106px;
+    height:32px;
+    margin-left: 80px;
+
+}
+.navResponsive2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #f8f9fb;
+
+}
+
+.navGroup{
+    align-items: center;
+}
+.navGroup ul{
+    align-items: center;
+
+}
+.buttonStyle{
+    height: 38px;
+    width: 197px;
+    border-radius: 5px;
+    color: white;
+    border: 1px solid #3fbabf;
+    background-color: #3fbabf;
+    margin-top: 15px;
+}
+.hero{
+    background-image: url("../img/img/hero-carousel/hero-carousel-2.jpg");
+    background-repeat: repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+    content: "";
+    position: relative;
+}
+
+.speachContainer{
+    width: 100%;
+    height: 222px;
+    border: 2px solid #3fbabf;
+    border-radius: 6px;
+    position: absolute;
+    text-align: center;
+    margin-top: 100px;
+    background-color: #f8f9fb;
+    opacity: 0.8;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+ 
+.speachStyle{
+    font-size: 45px;
+
+}
+.buttonStyle2{
+    border-radius: 5px;
+    color: white;
+    border: 1px solid #3fbabf;
+    background-color: #3fbabf;
+    width: 168px;
+    padding: 20px;
+    font-size: 20px;
+    margin-top: 15px;
+    
+}
+.serviceContainer{
+    background-color: white;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.shapeStyle{
+    width: 53px;
+    height: 4px;
+    background-color: #3fbabf;
+}
+.textAlign{
+padding: 16px;
+}
+ .iconBorder{
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #3fbabf ;
+    font-size: 40px;
+    width:67px;
+    height:67px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.04) 0px 10px 10px -5px;
+margin-bottom: 10px;
+}
+.iconStyle2{
+    width: 100%;
+  
+} 
+.flexIcon{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.iconsFirstPart{
+    display: flex;
+}
+.iconsSecondPart{
+    display: flex;
+}
+.fontStyle{
+    font-weight: bold;
+}
+.selectBox{
+    height: 59px;
+}
+.appoitmentContainer{
+    background-color: #f7fdfd;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 16px;
+}
+.formContainer{
+    display: flex !important; 
+}
+.textareaStyle{
+    width: 100%;
+}
+.DepartmentsContainer{
+    background-color: white;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.linkStyle3{
+    text-decoration: unset;
+    color: gray;
+    margin-left: 13px;
+    
+}
+
+.tabContainer{
+    display: flex;
+    width: 100%;
+}
+.tabStyle{
+    border-right: 2px solid gray;
+}
+.photoStyle img{
+    width: 200px;
+    height: 300px;
+}
+.qurstionsContainer{
+    background-color: #f7fdfd;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.contactContainer{
+    background-color: white;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.googlemapContainer{
+    width: 100%;
+    height: 100%;
+
+
+}
+.googlemapContainer>iframe{
+    width: 100%;
+    height: 100%;
+}
+.iconContainer{
+    width: 100%;
+ 
+    
+}
+.iconHome{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.boxShadowStyle{
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    padding: 24px;
+    margin: 8px 0;
+    border-radius: 4px;
+}
+
+.sendButtonBox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.iconBorder2{
+    border: 2px solid #3fbabf ;
+    border-radius: 50%;
+    background-color: white;
+    border-radius: 50%;
+    display: flex;
+    color: #3fbabf ;
+    font-size: 22px;
+    width: 40px;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+}
+ .formContainer2{
+    width: 100%;
+ }
+.boxStyle{
+    width: 308px;
+}
+ .linkType{
+    color: #3fbabf;
+    text-decoration: unset;
+ }
+
+ .Container{
+    display: flex;
+    flex-direction: column;
+    
+ }
+ .linksContainer{
+    display: flex;
+ }
+ .footerContainer{
+    display: flex;
+    background-color: #f7fdfd;
+    flex-wrap: wrap;
+  
+ }
+ .iconFlex{
+    width: 32px;
+    height: 32px;
+    border: 2px solid #ccc;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+ }
+ 
+ .iconFlex i{
+    color: gray;
+    font-size: 16px;
+ }
+ .iconsPart{
+    display: flex;
+ }
+ .linkType2{
+    text-decoration: unset;
+    color: gray;
+ }
+ .copyrightColor{
+    color: #3fbabf;
+
+ }
+ .copyrightContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-top: 2px solid black;
+  
+ }
+ .inputWidth{
+    width:100%;
+ }
+ .secondForm{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ }
+ .noWrapBox{
+flex-wrap: nowrap;
+justify-content: space-between;
+ }
+ /* responsive */
+
+ @media (min-width: 300px) and (max-width: 500px){
+    .navResponsive{
+        display: none;
+    }
+    .navResponsive2{
+        display: flex;
+        justify-content: space-between;
+        background-color: #f8f9fb;
+    }
+    .imgSize{
+    margin-left: 30px;
+    }
+    .speachContainer{
+        height: 412px;
+    }
+    .iconsFirstPart{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .iconsSecondPart{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .appoitmentContainer{
+        margin-top: 30px;
+    }
+    .inputForm{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .formContainer{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+       
+    }
+    .phoneInput{
+        margin-top: 10px;
+        width: 100%;
+
+    }
+    .textareaStyle{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin:10px 5px;
+        width: 100%;
+        
+    }
+    .wrapRes{
+        flex-wrap: wrap;
+    }
+    .DepartmentsContainer{
+        margin-top: 30px;
+
+    }
+    .tabContainer{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .qurstionsContainer{
+        margin-top: 30px;
+    }
+    .contactContainer{
+        margin-top: 30px;
+    }
+    .iconHome{
+        margin-top: 20px;
+    }
+
+    .footerContainer{
+        margin-top: 30px;
+    }
+    .Container{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap; 
+    
+    
+    }
+    .linksContainer{
+        display: flex;
+        flex-direction: column;
+    
+    }
+ }
+
+ @media (min-width: 501px) and (max-width: 800px){
+    
+    .speachContainer{
+        height: 300px;
+    }
+    .iconsFirstPart{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .iconsSecondPart{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .appoitmentContainer{
+        margin-top: 30px;
+    }
+    .inputForm{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .formContainer{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+       
+    }
+    .phoneInput{
+        margin-top: 10px;
+        width: 100%;
+
+    }
+    
+    .wrapRes{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .textareaStyle{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin:10px 5px;
+        width: 100%;
+        
+    }
+    .DepartmentsContainer{
+        margin-top: 30px;
+
+    }
+    .tabContainer{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .qurstionsContainer{
+        margin-top: 30px;
+    }
+    .contactContainer{
+        margin-top: 30px;
+    }
+    .iconHome{
+        margin-top: 20px;
+    }
+    .footerContainer{
+        margin-top: 30px;
+        margin-left: 20px;
+    }
+    
+ }
+ 
+ @media (min-width: 801px) and (max-width: 1200px){
+    .speachContainer{
+        height: 288px;
+    }
+    .footerContainer{
+        margin-top: 30px;
+        margin-left: 60px;
+    }
+    
+}
